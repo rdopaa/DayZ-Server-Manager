@@ -142,20 +142,6 @@ No restart loop — restarts are managed by the app. The `.bat` is a clean one-s
 
 ---
 
-## 🏗️ Technical overview
-
-| Component | Technology |
-|---|---|
-| UI | PySide6 (Qt 6) |
-| Styling | Custom dark theme via QSS |
-| Server process | QProcess (non-blocking, main thread safe) |
-| RCON | Native UDP socket, BattlEye protocol |
-| Log tailing | Seek-to-end on open, batched rendering |
-| CPU monitoring | psutil with PID cache |
-| Settings | JSON stored in `%APPDATA%\BTZDayZManager\settings.json` |
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. If you find a bug or want a new feature, open an Issue.
