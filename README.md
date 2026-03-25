@@ -7,11 +7,11 @@
 ## What is it?
 
 **BTZ DayZ Manager** is a Windows desktop application that lets you manage your DayZ server without touching the command line, editing config files by hand, or babysitting the machine waiting for something to crash. Everything from a single modern dark-themed interface full control over every aspect of your server.
-# Live Console with Logs
+#Live Console with Logs
 <img width="1565" height="980" alt="image" src="https://github.com/user-attachments/assets/69962baa-3c38-4cb1-9280-e3c510857de6" />
-# Easy Profiles Editing
+#Easy Profiles Editing
 <img width="1560" height="983" alt="image" src="https://github.com/user-attachments/assets/03c74b01-4a29-4f1f-b3b9-96c1c64bc49b" />
-# Easy Mods Management
+#Easy Mods Management
 <img width="1545" height="842" alt="image" src="https://github.com/user-attachments/assets/5dedb7de-b08e-4659-bada-7419a1e9e6a2" />
 
 ---
