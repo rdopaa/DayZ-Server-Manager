@@ -3,6 +3,8 @@
 Modern all-in-one DayZ Server Manager with a clean UI, advanced tools and automation.
 
 ---
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/32e25300-ab60-4d25-9a8c-c0d5cf2d1865" />
+<img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/953d6121-9dc0-4979-b0be-b63de1aaba23" />
 
 ## 🚀 Features
 
