@@ -145,6 +145,13 @@ No restart loop — restarts are managed by the app. The `.bat` is a clean one-s
 
 ---
 
+## 🤝 Official Support
+
+If you need support, go to our official discord and open a ticket:
+https://discord.gg/uaH3k8WRUN
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome. If you find a bug or want a new feature, open an Issue.
