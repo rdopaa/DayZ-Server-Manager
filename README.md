@@ -2,6 +2,7 @@
 
 > A professional all-in-one control panel for DayZ server administrators.
 
+> LAST UPDATE: 07/04/2026
 ---
 
 ## What is it?
