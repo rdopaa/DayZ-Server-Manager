@@ -112,6 +112,7 @@ To use RCON, your `<ServerRoot>\battleye\BEServer_x64.cfg` must contain:
 ```
 RConPassword YourPasswordHere
 RConPort 2305
+RestrictRCon 0
 ```
 
 The default RCON port is **game port + 3** (e.g. 2302 → 2306).
